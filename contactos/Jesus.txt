@@ -1,0 +1,3 @@
+Nombre:Jesus
+Telefono:847234
+Categoria:amigo

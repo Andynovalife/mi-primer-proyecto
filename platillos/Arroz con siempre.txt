@@ -1,0 +1,3 @@
+Nombre:Arroz con siempre
+Descripcion:arroz con lo que hay
+Precio:3000

@@ -1,0 +1,3 @@
+Nombre:arroz con carne
+Descripcion:a
+Precio:2000

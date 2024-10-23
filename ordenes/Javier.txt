@@ -1,0 +1,4 @@
+Nombre de la persona de la orden:Javier
+Nombre del platillo:peescado
+Bebida:coca
+Observaciones:fria

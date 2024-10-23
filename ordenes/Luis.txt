@@ -1,0 +1,4 @@
+Nombre de la persona de la orden:Luis
+Nombre del platillo:arroz con pollo
+Bebida:cerveza
+Observaciones:vaso con hielo
