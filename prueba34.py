@@ -9,4 +9,4 @@ numero2 = float(input("Ingrese el segundo número: "))
 resultado = numero1 * numero2
 
 # Mostrar el resultado de la multiplicación
-print(f"El resultado de la multiplicación es: {resultado}")
+print(f"El resultado de la multiplicación es: {resultado}")3
